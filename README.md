@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali Murtaza</h1>
-<h3 align="center">I am currently pursuing BS Computer Science from Namal University Mianwali. I am Tech and Open Source Enthusiast. I am always open collaborate on different Projects, Find Creative Ideas and always willing to learn new things.</h3>
+I am currently pursuing BS Computer Science from Namal University Mianwali. I am Tech and Open Source Enthusiast. I am always open collaborate on different Projects, Find Creative Ideas and always willing to learn new things.
 
 <p align="left"> <a href="https://twitter.com/ali_murtaza096" target="blank"><img src="https://img.shields.io/twitter/follow/ali_murtaza096?logo=twitter&style=for-the-badge" alt="ali_murtaza096" /></a> </p>
 
+- 🌍  I'm based in Pakistan
 - 🔭 I’m currently working on [Bridging the Gap - MLOps ( Final Year Project)](https://github.com/AliMurtaza096/MLOps-FYP)
 
 - 🌱 I’m currently learning **MLOps, Django, React**
+- 🤝  I'm open to collaborating on Web Dev Projects
 
 - 📫 How to reach me **murtaza2019@namal.edu.pk**
 
