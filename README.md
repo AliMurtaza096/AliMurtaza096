@@ -35,4 +35,4 @@ I am a Machine Learning Engineer specializing in NLP, Conversational AI, and fin
 
 
 <h3 align="left">Interests:</h3>
-- NLP, LLMOps, Conversational AI, Speech-to-Text (STT) and Text-to-Speech (TTS) Models.  
+- NLP, Conversational AI, Speech-to-Text (STT) and Text-to-Speech (TTS) Models
