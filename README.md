@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ali Murtaza</h1>
-I am a Machine Learning Engineer specializing in NLP, Conversational AI, and fine-tuning Large Language Models (LLMs). I am actively involved in research, development, and experimentation with state-of-the-art Text-to-Speech (TTS) and Speech-to-Text (STT) models to build efficient and robust Conversational AI systems, while ensuring seamless integration into production environments.
-<be>
+
+I am a Machine Learning Engineer specializing in NLP, Conversational AI, and fine-tuning Large Language Models (LLMs).  
+I am actively involved in research, development, and experimentation with state-of-the-art Text-to-Speech (TTS) and Speech-to-Text (STT) models to build efficient and robust Conversational AI systems,  
+while ensuring seamless integration into production environments.  
+
+<br>  
 
 - 🌍 Based in Islamabad, Pakistan  
 - 🔭 Currently working as a Machine Learning Engineer at [Idrak AI](https://idrakai.com/)  
@@ -8,6 +12,7 @@ I am a Machine Learning Engineer specializing in NLP, Conversational AI, and fin
 - 🎓 **AWS Certified Solutions Architect – Associate**  
 - 🤝 Open to collaborations on **NLP, LLMs**, and **Conversational AI** projects  
 - 📫 Reach me at **aleemurtaza8109@gmail.com**  
+
 
 
 
