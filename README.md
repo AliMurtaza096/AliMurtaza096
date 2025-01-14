@@ -4,8 +4,10 @@ I am a Machine Learning Engineer specializing in NLP, Conversational AI, and fin
 - 🌍 Based in Islamabad, Pakistan  
 - 🔭 Currently working as a Machine Learning Engineer at [Idrak AI](https://idrakai.com/)  
 - 🌱 Learning advanced **Generative AI** and **LLMOps** practices  
+- 🎓 **AWS Certified Solutions Architect – Associate**  
 - 🤝 Open to collaborations on **NLP, LLMs**, and **Conversational AI** projects  
 - 📫 Reach me at **aleemurtaza8109@gmail.com**  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
