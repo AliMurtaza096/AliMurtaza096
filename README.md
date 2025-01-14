@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Murtaza</h1>
-I am a Machine Learning Engineer specializing in NLP, Conversational AI, and fine-tuning Large Language Models (LLMs). With a strong foundation in cloud and DevOps practices, I thrive on delivering AI-driven solutions that are scalable and impactful.
+I am a Machine Learning Engineer specializing in NLP, Conversational AI, and fine-tuning Large Language Models (LLMs). With a strong foundation in Cloud and DevOps Practices, I thrive on delivering AI-driven solutions that are scalable and impactful.
 
 - 🌍 Based in Islamabad, Pakistan  
 - 🔭 Currently working as a Machine Learning Engineer at [Idrak AI](https://idrakai.com/)  
