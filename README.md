@@ -33,7 +33,3 @@ I am a Machine Learning Engineer specializing in NLP, Conversational AI, and fin
 
 <h3 align="left">Interests:</h3>
 - NLP, LLMOps, Conversational AI, Speech-to-Text (STT) Systems, and Text-to-Speech (TTS) Models.  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimurtaza096&show_icons=true&locale=en&layout=compact" alt="alimurtaza096" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimurtaza096&show_icons=true&locale=en" alt="alimurtaza096" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimurtaza096&" alt="alimurtaza096" /></p>
