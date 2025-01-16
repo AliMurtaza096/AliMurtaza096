@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Murtaza</h1>
 
 I am a Machine Learning Engineer specializing in NLP, Conversational AI, and fine-tuning Large Language Models (LLMs).  
-I am actively involved in research, development, and experimentation with state-of-the-art Text-to-Speech (TTS) and Speech-to-Text (STT) models to build efficient and robust Conversational AI systems,  
-while ensuring seamless integration into production environments.  
+I am actively involved in research, development, and experimentation with state-of-the-art Text-to-Speech (TTS) and Speech-to-Text (STT) models to build efficient and robust Conversational AI systems while ensuring seamless integration into production environments.  
 
 <br>  
 
